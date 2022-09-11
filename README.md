@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-I love :banana:, :peach:, and :teaching:.
+I love :banana:, :peach:, and :singer:.
